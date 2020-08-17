@@ -1,0 +1,84 @@
+<style>
+
+  h1 {
+    color:black;
+    font-weight:bold;
+    text-align:center;
+  }
+
+  h2 {
+    color:black;
+    font-weight:bold;
+    text-align:center;
+  }
+
+  h3 {
+    color:black;
+    font-weight:bold;
+    text-align:center;
+  }
+
+  h4 {
+    color:black;
+    font-style: italic;
+    font-weight:bold;
+    text-align:center;
+  }
+
+  p {
+    color:black;
+    font-weight:normal;
+    text-align:center;
+  }
+
+  blockquote {
+    color:red;
+    font-weight:normal;
+    text-align:center;
+  }
+
+  body {
+    background-color: white;
+  }
+
+  .header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+  }
+
+  ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      font-weight:bold;
+      text-align:center;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    height: auto;
+  }
+
+  img {
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      padding: 5px;
+      width: 150px;
+  }
+
+  .footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: gray;
+    text-align: center;
+    font-weight: bold;
+  }
+
+</style>
