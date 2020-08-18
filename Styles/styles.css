@@ -1,38 +1,37 @@
 <style>
 
   h1 {
-    color:black;
+    color:rgb(0, 0, 0);
     font-weight:bold;
     text-align:center;
   }
 
   h2 {
-    color:black;
+    color:rgb(0, 0, 0);
     font-weight:bold;
     text-align:center;
   }
 
   h3 {
-    color:black;
+    color:rgb(0, 0, 0);
     font-weight:bold;
     text-align:center;
   }
 
   h4 {
-    color:black;
-    font-style: italic;
+    color:rgb(0, 0, 0);
     font-weight:bold;
     text-align:center;
   }
 
   p {
-    color:black;
+    color:#000000;
     font-weight:normal;
     text-align:center;
   }
 
   blockquote {
-    color:red;
+    color:#000000;
     font-weight:normal;
     text-align:center;
   }
